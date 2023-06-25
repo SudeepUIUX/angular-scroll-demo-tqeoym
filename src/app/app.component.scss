@@ -11,7 +11,7 @@
 .explore-section {
   .food-images {
     width: 100%;
-    overflow: scroll;
+    overflow-y: auto;
     height: 400px;
   }
 }

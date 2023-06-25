@@ -29,7 +29,7 @@ export class AppComponent {
       console.log('End');
       setTimeout(() => {
         this.addData();
-      }, 1000);
+      }, 2000);
     }
   }
 
